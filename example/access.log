@@ -1,0 +1,6 @@
+time:2018-09-05T17:01:11.660+0900	level:info	ip:	status:
+time:2018-09-05T17:01:11.660+0900	level:error	ip:	status:	msg:error occurred: see error.log
+time:2018-09-05T17:01:11.660+0900	level:info	ip:	status:
+time:2018-09-05T17:02:08.660+0900	level:info	ip:	status:	msg:test without any fields
+time:2018-09-05T17:02:08.660+0900	level:error	ip:	status:	msg:error occurred: see error.log
+time:2018-09-05T17:02:08.660+0900	level:info	ip:	status:	msg:test without any fields2
